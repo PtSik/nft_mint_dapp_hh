@@ -3,7 +3,7 @@ import ethlogo from '../assets/ethlogo.png';
 const Artworks = () => {
   const BASE_URI = `https://images.cointelegraph.com/images/1434_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNGE4NmNmOWQtODM2Mi00YmVhLThiMzctZDEyODAxNjUxZTE1LmpwZWc=.jpg`;
   return (
-    <div className="bg-[#131835] py-10">
+    <div className="bg-[#131835] py-5">
       <div className="w-4/5 mx-auto">
         <h4 className="text-gradient uppercase text-2xl">Artworks</h4>
 
